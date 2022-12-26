@@ -1,8 +1,8 @@
 {
-    "name": "metrixop/github-public",
+    "name": "metrixio/github-public",
     "type": "project",
     "license": "MIT",
-    "description": "Github public metrics collector",
+    "description": "This tool helps developers see how popular their code is and how it's being used. It works with Prometheus and Grafana to gather data from Github and create cool visualizations. You can use Grafana to filter and customize the metrics you collect. We hope you find it helpful!",
     "homepage": "https://github.com/metrixio/github-public",
     "support": {
         "issues": "https://github.com/metrixio/github-public/issues",
