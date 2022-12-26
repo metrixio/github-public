@@ -1,5 +1,10 @@
 # Github public metrics collector
 
+<a href="https://packagist.org/packages/metrixio/github-public"><img src="https://poser.pugx.org/metrixio/github-public/require/php"></a>
+<a href="https://packagist.org/packages/metrixio/github-public"><img src="https://poser.pugx.org/metrixio/github-public/version"></a>
+<a href="https://github.com/metrixio/github-public/actions"><img src="https://github.com/metrixio/twitter/github-public/workflows/docker-image.yml/badge.svg"></a>
+<a href="https://packagist.org/packages/metrixio/github-public"><img src="https://poser.pugx.org/metrixio/github-public/downloads"></a>
+
 ![github](https://user-images.githubusercontent.com/773481/209463759-1a359047-3263-454b-b8ae-3444b5102bc8.png)
 
 This tool helps developers see how popular their code is and how it's being used.
