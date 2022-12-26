@@ -2,7 +2,9 @@
 
 ![github](https://user-images.githubusercontent.com/773481/209463759-1a359047-3263-454b-b8ae-3444b5102bc8.png)
 
-This tool helps developers see how popular their code is and how it's being used. It works with Prometheus and Grafana to gather data from Github and create cool visualizations. You can use Grafana to filter and customize the metrics you collect. We hope you find it helpful!
+This tool helps developers see how popular their code is and how it's being used.
+
+It works with Prometheus and Grafana to collect data from Github, store it in Prometheus, and create visualizations with Grafana. You can use Grafana to customize the data you collect and create dashboards that fit your needs.
 
 ## Dashboard
 
